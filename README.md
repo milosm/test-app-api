@@ -7,7 +7,7 @@ Usage is indented only for testing.
 ## It implements these endpoints:
 
 URL | Method | Params | Description
------------- | ------------- | ------------
+------------ | ------------- | ------------ | ------------
 / | GET | | Get the entire list
 /list | GET | | Get the entire list
 /list/:id | GET | id | Get id item
